@@ -1,3 +1,6 @@
+import time
+
+
 def validBoard(board, num, pos):
     size = len(board)
     sizeOfBox = int(size ** 0.5)
@@ -30,7 +33,14 @@ def heuristic(board):
     return None
 
 
-def sudokuSolver(board):
+# BenchmarkParams is a dictionary of parameters to be used for benchmarking
+def sudokuSolver(board, benchmark=False, benchmarkParams=None):
+
+    if benchmarkParams["ShowProgress"]:
+        if time.time() - benchmarkParams["ShowProgress"] > 5:
+            print(benchmarkParams['numOfNodes'], " nodes explored in 5 seconds")
+            benchmarkParams["ShowProgress"] = time.time()
+
     findPosition = heuristic(board)
     if not findPosition:
         return True
@@ -39,12 +49,15 @@ def sudokuSolver(board):
 
     # Try numbers 1-9 serially (can be optimized)
     for i in range(1, 10):
+        if benchmark:
+            benchmarkParams['numOfNodes'] += 1
         if validBoard(board, i, (row, col)):
             board[row][col] = i
-            if sudokuSolver(board):
+            if benchmarkParams["showEachStep"]:
+                printBoardAsString(board, highlightCell=(row, col))
+            if sudokuSolver(board, benchmark, benchmarkParams):
                 return True
             board[row][col] = 0
-
     return False
 
 
@@ -62,5 +75,15 @@ def printBoard(board):
                 print(str(board[i][j]) + " ", end=" ")
 
 
-
-
+def printBoardAsString(board, highlightCell=None):
+    sizeOfBox = int(len(board) ** 0.5)
+    for i in range(len(board)):
+        for j in range(len(board[0])):
+            if highlightCell and highlightCell == (i, j):
+                print("\033[1;32;40m" + str(board[i][j]) + "\033[0m", end="")
+            elif board[i][j] == 0:
+                print(".", end="")
+            else:
+                print(board[i][j], end="")
+        print("|", end=" ")
+    print()
