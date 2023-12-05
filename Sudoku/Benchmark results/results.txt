@@ -1,0 +1,157 @@
+Initial Board: .5..83.17...1..4..3.4..56.8....3...9.9.8245....6....7...9....5...729..861.36.72.4
+
+Number of Clues: 34...Number of Nodes: 1461 Time: 0.007085084915161133
+Number of Clues: 33...Number of Nodes: 1616 Time: 0.006999969482421875
+Number of Clues: 32...Number of Nodes: 1665 Time: 0.007007122039794922
+Number of Clues: 31...Number of Nodes: 1898 Time: 0.008994340896606445
+Number of Clues: 30...Number of Nodes: 3666 Time: 0.01699972152709961
+Number of Clues: 29...Number of Nodes: 4173 Time: 0.019132614135742188
+Number of Clues: 28...Number of Nodes: 2020 Time: 0.009972333908081055
+Number of Clues: 27...Number of Nodes: 3537 Time: 0.017166852951049805
+Number of Clues: 26...Number of Nodes: 65319 Time: 0.2762618064880371
+Number of Clues: 25...Number of Nodes: 3206 Time: 0.015011787414550781
+Number of Clues: 24...Number of Nodes: 71627 Time: 0.3261680603027344
+Number of Clues: 23...Number of Nodes: 62302 Time: 0.4895591735839844
+Number of Clues: 22...Number of Nodes: 104433 Time: 0.4694328308105469
+Number of Clues: 21...Number of Nodes: 1265 Time: 0.006092071533203125
+
+
+Initial Board: 2.6.3......1.65.7..471.8.5.5......29..8.194.6...42...1....428..6.93....5.7.....13
+
+Number of Clues: 33...Number of Nodes: 503 Time: 0.002001523971557617
+Number of Clues: 32...Number of Nodes: 519 Time: 0.0029938220977783203
+Number of Clues: 31...Number of Nodes: 528 Time: 0.003000497817993164
+Number of Clues: 30...Number of Nodes: 1004 Time: 0.003920078277587891
+Number of Clues: 29...Number of Nodes: 923 Time: 0.0039997100830078125
+Number of Clues: 28...Number of Nodes: 1097 Time: 0.005086660385131836
+Number of Clues: 27...Number of Nodes: 1780 Time: 0.007997512817382812
+Number of Clues: 26...Number of Nodes: 18440 Time: 0.07872128486633301
+Number of Clues: 25...Number of Nodes: 60377 Time: 0.25861501693725586
+Number of Clues: 24...Number of Nodes: 17171 Time: 0.07069611549377441
+Number of Clues: 23...Number of Nodes: 17173 Time: 0.06978750228881836
+Number of Clues: 22...Number of Nodes: 29389 Time: 0.1246798038482666
+Number of Clues: 21...Number of Nodes: 23286 Time: 0.09844303131103516
+
+
+Initial Board: ..45.21781...9..3....8....46..45.....7.9...128.12.35..4.......935..6.8.7.9.3..62.
+
+Number of Clues: 34...Number of Nodes: 1507 Time: 0.00592350959777832
+Number of Clues: 33...Number of Nodes: 3972 Time: 0.01711416244506836
+Number of Clues: 32...Number of Nodes: 3974 Time: 0.016449928283691406
+Number of Clues: 31...Number of Nodes: 3975 Time: 0.017009973526000977
+Number of Clues: 30...Number of Nodes: 5522 Time: 0.022368431091308594
+Number of Clues: 29...Number of Nodes: 44015 Time: 0.19707846641540527
+Number of Clues: 28...Number of Nodes: 49770 Time: 0.21005511283874512
+Number of Clues: 27...Number of Nodes: 56298 Time: 0.23174500465393066
+Number of Clues: 26...Number of Nodes: 93086 Time: 0.3774282932281494
+Number of Clues: 25...Number of Nodes: 41630 Time: 0.1844501495361328
+Number of Clues: 24...Number of Nodes: 60206 Time: 0.258467435836792
+Number of Clues: 23...Number of Nodes: 81885 Time: 0.36037492752075195
+Number of Clues: 22...Number of Nodes: 2337 Time: 0.011598587036132812
+Number of Clues: 21...Number of Nodes: 2357 Time: 0.010086297988891602
+
+
+Initial Board: 59....147...9....8.72....3.7...4.29..2..3.8.68..17..5...5764..9.36..5...1..8....2
+
+Number of Clues: 33...Number of Nodes: 1060 Time: 0.005002498626708984
+Number of Clues: 32...Number of Nodes: 2742 Time: 0.011000633239746094
+Number of Clues: 31...Number of Nodes: 12093 Time: 0.04677534103393555
+Number of Clues: 30...Number of Nodes: 18514 Time: 0.07466483116149902
+Number of Clues: 29...Number of Nodes: 20577 Time: 0.08876729011535645
+Number of Clues: 28...Number of Nodes: 36021 Time: 0.15752792358398438
+Number of Clues: 27...Number of Nodes: 39743 Time: 0.16885685920715332
+Number of Clues: 26...Number of Nodes: 281836 Time: 1.2443804740905762
+Number of Clues: 25...Number of Nodes: 371588 Time: 1.6405091285705566
+Number of Clues: 24...Number of Nodes: 857157 Time: 3.93373703956604
+Number of Clues: 23...Number of Nodes: 3392806 Time: 14.899645566940308
+Number of Clues: 22...Number of Nodes: 7122090 Time: 34.33545160293579
+Number of Clues: 21...Number of Nodes: 17617559 Time: 89.99944162368774
+
+
+Initial Board: 9...84.6.6.4..52.7.3..7..8.76...15...53.....1...4.96.31.5.26.9...2.4....8....371.
+
+Number of Clues: 34...Number of Nodes: 2029 Time: 0.01599860191345215
+Number of Clues: 33...Number of Nodes: 4187 Time: 0.032094478607177734
+Number of Clues: 32...Number of Nodes: 5154 Time: 0.0396730899810791
+Number of Clues: 31...Number of Nodes: 5205 Time: 0.042006731033325195
+Number of Clues: 30...Number of Nodes: 5239 Time: 0.04077744483947754
+Number of Clues: 29...Number of Nodes: 8754 Time: 0.07110595703125
+Number of Clues: 28...Number of Nodes: 34940 Time: 0.27724575996398926
+Number of Clues: 27...Number of Nodes: 62542 Time: 0.496917724609375
+Number of Clues: 26...Number of Nodes: 75514 Time: 0.5926864147186279
+Number of Clues: 25...Number of Nodes: 170433 Time: 1.350466012954712
+Number of Clues: 24...Number of Nodes: 708410 Time: 5.582650661468506
+Number of Clues: 23...Number of Nodes: 615842 Time: 4.8457818031311035
+Number of Clues: 22...Number of Nodes: 878049 Time: 7.103639602661133
+Number of Clues: 21...Number of Nodes: 2864146 Time: 23.228463172912598
+
+
+Initial Board: 68.9.5.....3...5.84.21.87.339.72.8.........1..45..69...6.8.4..2..1..2.757...13...
+
+Number of Clues: 34...Number of Nodes: 551 Time: 0.0056645870208740234
+Number of Clues: 33...Number of Nodes: 567 Time: 0.004923105239868164
+Number of Clues: 32...Number of Nodes: 618 Time: 0.005999565124511719
+Number of Clues: 31...Number of Nodes: 1530 Time: 0.012932062149047852
+Number of Clues: 30...Number of Nodes: 2275 Time: 0.01743006706237793
+Number of Clues: 29...Number of Nodes: 8035 Time: 0.06953740119934082
+Number of Clues: 28...Number of Nodes: 145402 Time: 1.2019970417022705
+Number of Clues: 27...Number of Nodes: 277992 Time: 2.2529141902923584
+Number of Clues: 26...Number of Nodes: 377931 Time: 2.161071538925171
+Number of Clues: 25...Number of Nodes: 476783 Time: 2.4681200981140137
+Number of Clues: 24...Number of Nodes: 1958470 Time: 10.82490873336792
+Number of Clues: 23...Number of Nodes: 2635486 Time: 13.933677911758423
+Number of Clues: 22...Number of Nodes: 759113 Time: 3.9438672065734863
+Number of Clues: 21...Number of Nodes: 20107189 Time: 111.31607985496521
+
+
+Initial Board: ...34...2..6.82.737..1..45..82..5.14....983..67......514.7.....9.5.3..2..3....8.6
+
+Number of Clues: 33...Number of Nodes: 958 Time: 0.008931875228881836
+Number of Clues: 32...Number of Nodes: 1541 Time: 0.014661550521850586
+Number of Clues: 31...Number of Nodes: 2713 Time: 0.021844148635864258
+Number of Clues: 30...Number of Nodes: 5040 Time: 0.04024076461791992
+Number of Clues: 29...Number of Nodes: 8296 Time: 0.06686282157897949
+Number of Clues: 28...Number of Nodes: 15486 Time: 0.13153076171875
+Number of Clues: 27...Number of Nodes: 16503 Time: 0.14841413497924805
+Number of Clues: 26...Number of Nodes: 1103 Time: 0.008669376373291016
+Number of Clues: 25...Number of Nodes: 2981 Time: 0.0338902473449707
+Number of Clues: 24...Number of Nodes: 4281 Time: 0.03777670860290527
+Number of Clues: 23...Number of Nodes: 6746 Time: 0.05861687660217285
+Number of Clues: 22...Number of Nodes: 1321 Time: 0.012088298797607422
+Number of Clues: 21...Number of Nodes: 42864 Time: 0.39422106742858887
+
+
+Initial Board: 6...5.....73..8.2.854.27...2.17..53.4...69..7.8....9...273.1.84.6.54...93.......1
+
+Number of Clues: 34...Number of Nodes: 270 Time: 0.0030066967010498047
+Number of Clues: 33...Number of Nodes: 272 Time: 0.002999544143676758
+Number of Clues: 32...Number of Nodes: 276 Time: 0.003000497817993164
+Number of Clues: 31...Number of Nodes: 281 Time: 0.0030832290649414062
+Number of Clues: 30...Number of Nodes: 314 Time: 0.0030031204223632812
+Number of Clues: 29...Number of Nodes: 2596 Time: 0.019663095474243164
+Number of Clues: 28...Number of Nodes: 2605 Time: 0.02100396156311035
+Number of Clues: 27...Number of Nodes: 2828 Time: 0.02299976348876953
+Number of Clues: 26...Number of Nodes: 3548 Time: 0.02899932861328125
+Number of Clues: 25...Number of Nodes: 6735 Time: 0.06378483772277832
+Number of Clues: 24...Number of Nodes: 61441 Time: 0.6781713962554932
+Number of Clues: 23...Number of Nodes: 21642 Time: 0.248246431350708
+Number of Clues: 22...Number of Nodes: 114691 Time: 0.9955132007598877
+Number of Clues: 21...Number of Nodes: 144250 Time: 1.1809911727905273
+
+
+Initial Board: ..75..9.4....823.5..16....28...36.7..16..42..43.19..5.54...8....29.71.3.......6.9
+
+Number of Clues: 34...Number of Nodes: 429 Time: 0.0049991607666015625
+Number of Clues: 33...Number of Nodes: 991 Time: 0.010000467300415039
+Number of Clues: 32...Number of Nodes: 2400 Time: 0.019512414932250977
+Number of Clues: 31...Number of Nodes: 13981 Time: 0.09802842140197754
+Number of Clues: 30...Number of Nodes: 14667 Time: 0.10228180885314941
+Number of Clues: 29...Number of Nodes: 14339 Time: 0.1016392707824707
+Number of Clues: 28...Number of Nodes: 18094 Time: 0.13708996772766113
+Number of Clues: 27...Number of Nodes: 23448 Time: 0.18430876731872559
+Number of Clues: 26...Number of Nodes: 54750 Time: 0.4189879894256592
+Number of Clues: 25...Number of Nodes: 124810 Time: 0.9475791454315186
+Number of Clues: 24...Number of Nodes: 819410 Time: 6.473076820373535
+Number of Clues: 23...Number of Nodes: 1433138 Time: 11.892051458358765
+Number of Clues: 22...Number of Nodes: 2250461 Time: 18.57146406173706
+Number of Clues: 21...Number of Nodes: 3820756 Time: 30.493861198425293
